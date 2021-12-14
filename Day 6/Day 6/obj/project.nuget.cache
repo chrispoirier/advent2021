@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCWU9cUP7Ni7aDH83CgOQ4S+/JSLXUASTyADrGNFOkVvfDf8TTKrANLynzja1DkERzGMnhM3FraTYLLKehFhng==",
+  "success": true,
+  "projectFilePath": "P:\\Documents\\Advent of Code 2021\\Day 6\\Day 6\\Day 6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
